@@ -78,3 +78,9 @@ ul > li{
     margin-top: 10px;
 }
 
+button{
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    background: linear-gradient(90deg,rgb(208, 255, 0),#15a4cf);
+}
